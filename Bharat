@@ -2,9 +2,6 @@ Hi I am Bharat
 I have craeted a New foled 
 Using git init command
 Hi Bharat Commit to cherry pick-1
-<<<<<<< HEAD
 Hi Bharat Commit to cherry pick-2
 Hi Bharat Commit to cherry pick-3
-=======
 Hi Bharat Commit to cherry pick-2
->>>>>>> 832d061 (Cherrypick commit-2)
